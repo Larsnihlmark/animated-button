@@ -1,0 +1,21 @@
+body {
+    background-color: #1D1F20;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+#btn { 
+    height: 15em;
+    width: 40em;
+    
+    background-color: #2B2D2F;
+    color: #71DFBE;
+    border: none;
+    border-radius: .125em;
+    padding: 2em 4.5em;
+    font-weight: bold;
+    cursor: pointer;
+}
