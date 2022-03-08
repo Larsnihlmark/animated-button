@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: rgb(37, 32, 32);
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -17,10 +17,11 @@ body {
     background-color: #2B2D2F;
     color: #71DFBE;
     border: none;
-    border-radius: .125em;
-    padding: 1em 2.5em;
+    border-radius: 1.125em;
+    padding: 1em 3em;
     font-weight: bold;
     cursor: pointer;
+    font-size: 75px;
 
 }
 .btn.animating {
